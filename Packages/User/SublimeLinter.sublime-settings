@@ -1,0 +1,10 @@
+// SublimeLinter Settings - User
+{
+	"lint_mode": "background",
+	"paths": {
+        "linux": [],
+        "osx": [],
+        "windows": ["E:\\xampp\\php"]
+    },
+    "delay": 0.1,
+}

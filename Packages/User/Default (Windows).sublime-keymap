@@ -1,0 +1,6 @@
+[
+	{ "keys": ["ctrl+alt+q"], "command": "alignment" },
+	{ "keys": ["ctrl+k", "ctrl+k"],
+      "command": "sublime_linter_toggle_highlights"
+    }
+]

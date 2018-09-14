@@ -1,0 +1,10 @@
+{
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"save_on_focus_lost": true,
+	"spell_check": true,
+	"word_wrap": true
+}

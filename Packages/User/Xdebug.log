@@ -1,0 +1,57 @@
+[09/14/2018 10:25:38AM] INFO - ==== Loading "Xdebug Client.sublime-package" package ====
+[09/14/2018 10:37:15AM] WARNING - Could not import subprocess32 module, falling back to subprocess module
+[09/14/2018 10:37:15AM] INFO - scan_purelang: path: 'E:\\xampp\\htdocs\\xisland\\pes.putike\\application\\views\\member\\coupon.php' lang: HTML
+[09/14/2018 10:38:07AM] INFO - scan_purelang: path: 'E:\\xampp\\htdocs\\xisland\\pes.putike\\application\\views\\member\\coupon.php' lang: HTML
+[09/14/2018 10:38:57AM] INFO - scan_purelang: path: 'E:\\xampp\\htdocs\\xisland\\pes.putike\\application\\views\\member\\coupon.php' lang: HTML
+[09/14/2018 10:41:35AM] INFO - scan_purelang: path: 'E:\\xampp\\htdocs\\xisland\\pes.putike\\application\\views\\member\\coupon.php' lang: HTML
+[09/14/2018 10:41:51AM] INFO - scan_purelang: path: 'E:\\xampp\\htdocs\\xisland\\pes.putike\\application\\views\\member\\coupon.php' lang: HTML
+[09/14/2018 10:42:05AM] INFO - scan_purelang: path: 'E:\\xampp\\htdocs\\xisland\\pes.putike\\application\\views\\member\\coupon.php' lang: HTML
+[09/14/2018 10:43:03AM] INFO - scan_purelang: path: 'E:\\xampp\\htdocs\\xisland\\pes.putike\\application\\views\\member\\integral_index.php' lang: HTML
+[09/14/2018 10:43:26AM] INFO - scan_purelang: path: 'E:\\xampp\\htdocs\\xisland\\pes.putike\\application\\views\\member\\integral_index.php' lang: HTML
+[09/14/2018 10:47:21AM] INFO - scan_purelang: path: 'E:\\xampp\\htdocs\\xisland\\pes.putike\\application\\views\\member\\integral_index.php' lang: HTML
+[09/14/2018 10:47:42AM] INFO - scan_purelang: path: 'E:\\xampp\\htdocs\\xisland\\pes.putike\\application\\views\\member\\integral_index.php' lang: HTML
+[09/14/2018 10:47:42AM] INFO - getting handler for (None,None,None)
+[09/14/2018 10:47:42AM] INFO - done eval: success
+[09/14/2018 10:47:42AM] INFO - Autocomplete called (HTML) [cplns]
+[09/14/2018 10:47:46AM] INFO - done eval: success
+[09/14/2018 10:47:46AM] INFO - Autocomplete called (HTML) [cplns]
+[09/14/2018 10:47:47AM] INFO - done eval: success
+[09/14/2018 10:47:47AM] INFO - Autocomplete called (HTML) [cplns]
+[09/14/2018 10:47:47AM] INFO - done eval: success
+[09/14/2018 10:47:47AM] INFO - Autocomplete called (HTML) [cplns]
+[09/14/2018 10:47:49AM] INFO - done eval: success
+[09/14/2018 10:47:49AM] INFO - Autocomplete called (HTML) [cplns]
+[09/14/2018 10:47:49AM] INFO - done eval: success
+[09/14/2018 10:47:49AM] INFO - Autocomplete called (HTML) [cplns]
+[09/14/2018 10:47:49AM] INFO - done eval: success
+[09/14/2018 10:47:49AM] INFO - Autocomplete called (HTML) [cplns]
+[09/14/2018 10:47:49AM] INFO - done eval: success
+[09/14/2018 10:47:49AM] INFO - Autocomplete called (HTML) [cplns]
+[09/14/2018 10:47:49AM] INFO - done eval: success
+[09/14/2018 10:47:49AM] INFO - Autocomplete called (HTML) [cplns]
+[09/14/2018 10:47:49AM] INFO - done eval: success
+[09/14/2018 10:47:49AM] INFO - Autocomplete called (HTML) [cplns]
+[09/14/2018 10:47:50AM] INFO - done eval: success
+[09/14/2018 10:47:50AM] INFO - Autocomplete called (HTML) [cplns]
+[09/14/2018 10:47:53AM] INFO - scan_purelang: path: 'E:\\xampp\\htdocs\\xisland\\pes.putike\\application\\views\\member\\integral_index.php' lang: HTML
+[09/14/2018 10:47:53AM] INFO - done eval: success
+[09/14/2018 10:47:53AM] INFO - Autocomplete called (HTML) [cplns]
+[09/14/2018 10:48:03AM] INFO - scan_purelang: path: 'E:\\xampp\\htdocs\\xisland\\pes.putike\\application\\views\\member\\integral_index.php' lang: HTML
+[09/14/2018 10:48:15AM] INFO - scan_purelang: path: 'E:\\xampp\\htdocs\\xisland\\pes.putike\\application\\views\\member\\integral_index.php' lang: HTML
+[09/14/2018 10:48:15AM] INFO - done eval: success
+[09/14/2018 10:48:15AM] INFO - Autocomplete called (HTML) [cplns]
+[09/14/2018 10:48:16AM] INFO - done eval: success
+[09/14/2018 10:48:16AM] INFO - Autocomplete called (HTML) [cplns]
+[09/14/2018 10:48:17AM] INFO - done eval: success
+[09/14/2018 10:48:17AM] INFO - Autocomplete called (HTML) [cplns]
+[09/14/2018 11:01:05AM] INFO - scan_purelang: path: 'E:\\xampp\\htdocs\\pds.putike\\order.php' lang: PHP
+[09/14/2018 11:01:16AM] INFO - scan_purelang: path: 'E:\\xampp\\htdocs\\pds.putike\\order.php' lang: PHP
+[09/14/2018 12:02:12PM] INFO - scan_purelang: path: 'E:\\xampp\\htdocs\\pds.putike\\_reminder.php' lang: PHP
+[09/14/2018 12:02:24PM] INFO - scan_purelang: path: 'E:\\xampp\\htdocs\\pds.putike\\_reminder - ¸±±¾.php' lang: PHP
+[09/14/2018 12:02:31PM] INFO - scan_purelang: path: 'E:\\xampp\\htdocs\\pds.putike\\_reminder.php.bak' lang: PHP
+[09/14/2018 12:02:38PM] INFO - scan_purelang: path: 'E:\\xampp\\htdocs\\pds.putike\\hook\\hotel_ticket\\hook.php' lang: PHP
+[09/14/2018 12:02:44PM] INFO - scan_purelang: path: 'E:\\xampp\\htdocs\\pds.putike\\room.php' lang: PHP
+[09/14/2018 12:20:57PM] INFO - scan_purelang: path: 'E:\\xampp\\htdocs\\xisland\\pes.putike\\application\\libraries\\member\\integralajax.php' lang: PHP
+[09/14/2018 02:35:33PM] INFO - scan_purelang: path: 'E:\\xampp\\htdocs\\zj\\pds.putike\\_reminder.php' lang: PHP
+[09/14/2018 02:35:38PM] INFO - scan_purelang: path: 'E:\\xampp\\htdocs\\zj\\pds.putike\\hook\\hotel_ticket\\hook.php' lang: PHP
+[09/14/2018 02:35:45PM] INFO - scan_purelang: path: 'E:\\xampp\\htdocs\\zj\\pds.putike\\room.php' lang: PHP
